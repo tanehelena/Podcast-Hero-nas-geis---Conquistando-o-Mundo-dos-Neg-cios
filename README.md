@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/3a7ef0e2-800f-4ca4-b2bd-f3313181d7f3)
+
 Podcast Heroínas Ágeis: Conquistando o Mundo dos Negócios
 
 Episódio 1: 'Empoderando-se no Mundo dos Negócios'
