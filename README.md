@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/7324573a-04e5-460a-b652-2de53bc4ecae
 - Microsoft Copilot: geração de opções de nome do podcast e do roteiro do Episódio 1
 - Canva Dream Lab: geração de imagens de capa
 - ElevenLabs: Geração do áudio
-- Capcut: Tratamento de áudio e adição de som de fundo
+- CapCut (versão desktop): Tratamento de áudio e adição de som de fundo
 
 
 📚 Ferramenta utilizada
@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/7324573a-04e5-460a-b652-2de53bc4ecae
   
 🤖 1. Roteirista: Prompts de nome do podcast e do roteiro do Episódio 1 usados no Microsoft Copilot
 
-🤖 2. Narrador: Uso de ElevenLabs
+🤖 2. Narrador: Uso de ElevenLabs e CapCut versão desktop
 
 🤖 3. Artista: Prompts de artes de capa usados no Canva Dream Lab
 
