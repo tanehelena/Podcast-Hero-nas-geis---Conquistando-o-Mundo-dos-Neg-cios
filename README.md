@@ -17,7 +17,8 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA com prom
 
 
 📚 Ferramentas utilizadas:
-- Notion: Organização dos prompts para capa, título e roteiro do podcast 
+- Notion: Organização dos prompts para capa, título e roteiro do podcast
+  
 🤖 1. Roteirista: Prompts de nome do podcast e do roteiro do Episódio 1 usados no Microsoft Copilot
 🤖 2. Narrador: Uso de ElevenLabs
 🤖 3. Artista: Prompts de artes de capa usados no Canva Dream Lab
