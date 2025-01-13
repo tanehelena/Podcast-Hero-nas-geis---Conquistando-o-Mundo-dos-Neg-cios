@@ -1,11 +1,11 @@
 Podcast Heroínas Ágeis: Conquistando o Mundo dos Negócios
 
+Episódio 1: 'Empoderando-se no Mundo dos Negócios'
 
-Podcast sobre Métodos Ágeis e o Episódio 1 é o "Empoderando-se no Mundo dos Negócios"
+Podcast sobre Métodos Ágeis trazendo um toque de empoderamento feminino! 
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA com prompts mais trabalhados.
-ℹ️ NOTE: Este é o repositório desenvolvido para Bootcamp da DIO
-
+ℹ️ NOTE: Este repositório foi desenvolvido para Bootcamp da DIO
 
 ✨ Clique aqui para conferir!
 
@@ -20,7 +20,8 @@ https://www.notion.so/PAS-Podcast-AI-Studio-Valentina-1791818d64e380e0929ff7549e
 - Capcut: Tratamento de áudio e adição de som de fundo
 
 
-📚 Ferramentas utilizadas:
+📚 Ferramenta utilizada
+
 - Notion: Organização dos prompts para capa, título e roteiro do podcast
   
 🤖 1. Roteirista: Prompts de nome do podcast e do roteiro do Episódio 1 usados no Microsoft Copilot
