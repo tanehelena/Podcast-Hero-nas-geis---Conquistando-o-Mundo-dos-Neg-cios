@@ -11,7 +11,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA com prom
 
 ✨ Clique aqui para conferir!
 
-https://www.notion.so/PAS-Podcast-AI-Studio-Valentina-1791818d64e380e0929ff7549eb2620b
+Uploading Podcast 1 Heroínas Ágeis - Empoderando-se no Mundo nos Negócios.mp4…
 
 
 💻 Tecnologias IA utilizadas no projeto
@@ -25,6 +25,7 @@ https://www.notion.so/PAS-Podcast-AI-Studio-Valentina-1791818d64e380e0929ff7549e
 📚 Ferramenta utilizada
 
 - Notion: Organização dos prompts para capa, título e roteiro do podcast
+  https://www.notion.so/PAS-Podcast-AI-Studio-Valentina-1791818d64e380e0929ff7549eb2620b
   
 🤖 1. Roteirista: Prompts de nome do podcast e do roteiro do Episódio 1 usados no Microsoft Copilot
 
