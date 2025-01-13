@@ -1,30 +1,23 @@
-# Podcast-Hero-nas-geis---Conquistando-o-Mundo-dos-Neg-cios
+Podcast Heroínas Ágeis: Conquistando o Mundo dos Negócios
+
+
 Podcast sobre Métodos Ágeis e o Episódio 1 é o "Empoderando-se no Mundo dos Negócios"
-Empoderando-se no Mundo dos Negócios
-Projeto Podcast Gerado por I.A.s
-ℹ️ NOTE: Este é o repositório desenvolvido durante uma live no Youtube em parceria com a DIO
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA com prompts mais trabalhados.
+ℹ️ NOTE: Este é o repositório desenvolvido para Bootcamp da DIO
 
-💻 Tecnologias utilizadas no projeto
-ChatGPT
-MidJourney
-ElevenLabs
-Capcut
-✨ Como foi feito ?
-Roteiro gerado via chatgpt
-Audio gerado pela elevenLabs
-Midjourney Para gerar capas
-Capcut para tratar aúdio e adicionar sons de fundo
-📚 Materiais
-Link da live no Youtube
-Notion Template
-Editor de aúdio
-🛠️ Instruções de execução
-Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-🤖 1. Use os prompts de roteiro no chagpt
-🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
-🤖 3. Use os prompts de artes no midjourney
+💻 Tecnologias IA utilizadas no projeto
+- ChatGPT: Geração material para definição do conteúdo a ser abordado no podcast sobre metodologias ágeis; e edição do prompt para definir o nome do podcast
+- Microsoft Copilot: geração de opções de nome do podcast e do roteiro do Episódio 1
+- Canva Dream Lab: geração de imagens de capa
+- ElevenLabs: Geração do áudio
+- Capcut: Tratamento de áudio e adição de som de fundo
+
+
+📚 Ferramentas utilizadas:
+- Notion: Organização dos prompts para capa, título e roteiro do podcast 
+🤖 1. Roteirista: Prompts de nome do podcast e do roteiro do Episódio 1 usados no Microsoft Copilot
+🤖 2. Narrador: Uso de ElevenLabs
+🤖 3. Artista: Prompts de artes de capa usados no Canva Dream Lab
